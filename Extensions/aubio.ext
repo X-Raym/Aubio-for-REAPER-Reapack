@@ -2,14 +2,14 @@
 @author X-Raym
 @version 0.4.9.1
 @provides
-  [win64] aubio/0.4.9/win64/aubiomfcc.exe
-  [win64] aubio/0.4.9/win64/aubionotes.exe
-  [win64] aubio/0.4.9/win64/aubioonset.exe
-  [win64] aubio/0.4.9/win64/aubiopitch.exe
-  [win64] aubio/0.4.9/win64/aubioquiet.exe
-  [win64] aubio/0.4.9/win64/aubiotrack.exe
-  [win64] aubio/0.4.9/win64/cygaubio-5.dll
-  [win64] aubio/0.4.9/win64/msys-2.0.dll
+  [win64] /aubio/0.4.9/win64/aubiomfcc.exe
+  [win64] /aubio/0.4.9/win64/aubionotes.exe
+  [win64] /aubio/0.4.9/win64/aubioonset.exe
+  [win64] /aubio/0.4.9/win64/aubiopitch.exe
+  [win64] /aubio/0.4.9/win64/aubioquiet.exe
+  [win64] /aubio/0.4.9/win64/aubiotrack.exe
+  [win64] /aubio/0.4.9/win64/cygaubio-5.dll
+  [win64] /aubio/0.4.9/win64/msys-2.0.dll
 @link
   Aubio.org https://aubio.org/
   GitHub https://github.com/aubio/aubio
