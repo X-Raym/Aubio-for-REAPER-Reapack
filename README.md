@@ -4,7 +4,7 @@
 
 # Versions
 
-* Win64 v0.4.9 build by [cfillion](https://github.com/cfillion/)
+* **Win64** - v0.4.9 - build by [cfillion](https://github.com/cfillion/)
 
 # Installation
 
