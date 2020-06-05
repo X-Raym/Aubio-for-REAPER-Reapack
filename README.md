@@ -10,4 +10,6 @@
 
 Download this pack via [Reapack](https://reapack.com) REAPER extension.
 
-`https://raw.githubusercontent.com/X-Raym/Aubio-for-REAPER-Reapack/master/index.xml`
+```
+https://raw.githubusercontent.com/X-Raym/Aubio-for-REAPER-Reapack/master/index.xml
+```
