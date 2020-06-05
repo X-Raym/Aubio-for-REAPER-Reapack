@@ -13,3 +13,7 @@ Download this pack via [Reapack](https://reapack.com) REAPER extension.
 ```
 https://raw.githubusercontent.com/X-Raym/Aubio-for-REAPER-Reapack/master/index.xml
 ```
+
+# Contribution
+
+If you want to propose your own aubio builds, you can compile from [aubio code source](https://github.com/aubio/aubio).
