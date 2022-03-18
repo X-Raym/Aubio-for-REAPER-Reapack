@@ -5,7 +5,6 @@
 ## Versions
 
 * **Win64** - v0.4.9 - build by [cfillion](https://github.com/cfillion/)
-* **Mac** - v0.4.9 - build by [Mavriq](https://github.com/mavriq-dev)
 
 ## Installation
 
