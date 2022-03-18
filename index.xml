@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Aubio" commit="5d3d2287d7c1d4361a7dd760574690161da6d5b3">
+<index version="1" name="Aubio" commit="097c0f142fbbf528e9f0c3c005f567b6e28e1e82">
   <category name="Extensions">
     <reapack name="aubio.ext" type="extension" desc="Aubio">
       <metadata/>
@@ -30,6 +30,17 @@
         <source platform="darwin" file="aubio/0.4.9/mac/aubioquiet">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/5d3d2287d7c1d4361a7dd760574690161da6d5b3/Extensions/aubio/0.4.9/mac/aubioquiet</source>
         <source platform="darwin" file="aubio/0.4.9/mac/aubiotrack">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/5d3d2287d7c1d4361a7dd760574690161da6d5b3/Extensions/aubio/0.4.9/mac/aubiotrack</source>
         <source platform="darwin" file="aubio/0.4.9/mac/libaubio.dylib">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/5d3d2287d7c1d4361a7dd760574690161da6d5b3/Extensions/aubio/0.4.9/mac/libaubio.dylib</source>
+      </version>
+      <version name="0.4.9.3" author="X-Raym" time="2022-03-18T14:24:43Z">
+        <changelog><![CDATA[remove mac builds]]></changelog>
+        <source platform="win64" file="aubio/0.4.9/win64/aubiomfcc.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubiomfcc.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/aubionotes.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubionotes.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/aubioonset.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubioonset.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/aubiopitch.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubiopitch.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/aubioquiet.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubioquiet.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/aubiotrack.exe">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/aubiotrack.exe</source>
+        <source platform="win64" file="aubio/0.4.9/win64/cygaubio-5.dll">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/cygaubio-5.dll</source>
+        <source platform="win64" file="aubio/0.4.9/win64/msys-2.0.dll">https://github.com/X-Raym/Aubio-for-REAPER-Reapack/raw/f29aa2f1e7c8852d312b050c8ab20f5d1a65c733/Extensions/aubio/0.4.9/win64/msys-2.0.dll</source>
       </version>
     </reapack>
   </category>
